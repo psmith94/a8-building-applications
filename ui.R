@@ -5,6 +5,7 @@
 
 #Global settings and loading in needed packages.
 options(stringsAsFactors = FALSE)
+library(rsconnect)
 library(shiny)
 library(plotly)
 library(dplyr)
